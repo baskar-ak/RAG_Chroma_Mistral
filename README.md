@@ -15,7 +15,7 @@ Retrieval for AI with Chroma and Mistral.
 
 2. Query Expansion with Multiple Queries
 
-![query_exp_1](./images/query_expansion_1.png)
+![query_exp_2](./images/query_expansion_2.png)
 
 ### Visualization:
 
