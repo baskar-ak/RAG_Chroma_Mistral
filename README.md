@@ -19,7 +19,7 @@ Retrieval for AI with Chroma and Mistral.
 
 ### Visualization:
 
-![umap]()
+![umap](./images/umap.png)
 
 ### Cross-encoder Re-ranking:
 
