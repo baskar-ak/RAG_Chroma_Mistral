@@ -1,5 +1,5 @@
 # RAG Chroma Mistral
-Retrieval for AI with Chroma and Mistral.
+Advanced retrieval for AI with ChromaDB and Mistral LLM with Query Expansion, Cross-encoder Re-ranking and UMAP visualization.
 
 ![workflow](./images/workflow.png)
 
